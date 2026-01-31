@@ -1,3 +1,11 @@
 body {
     background-image: url("https://uplink.weforum.org/uplink/sfc/servlet.shepherd/version/renditionDownload?rendition=ORIGINAL_jpg&versionId=068TE000007b39WYAQ")
 }
+
+#main-title {
+    font-family: 'Arial', sans-serif;
+    color: #333333;
+    text-align: center;
+    margin-top: 50px;
+    text-align: center;
+}
